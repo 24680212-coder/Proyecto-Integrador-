@@ -100,7 +100,11 @@ def generar_escenario_final():
     follow.keyframe_insert(data_path="offset_factor")
 
 generar_escenario_final()
+```
 
+A continuación se muestra el código en ejecución:
+
+<img width="1920" height="1008" alt="Captura de pantalla 2026-02-25 202555" src="https://github.com/user-attachments/assets/d4aea3b2-1bb6-40b6-ab79-988700057aa2" />
 
 
 
