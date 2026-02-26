@@ -101,11 +101,7 @@ def generar_escenario_final():
 
 generar_escenario_final()
 
-🎬 Demostración de la Animación
 
-
-
-Uploading Grabación de pantalla 2026-02-25 192949.mp4…
 
 
 
