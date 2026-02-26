@@ -101,7 +101,7 @@ def generar_escenario_final():
 
 generar_escenario_final()
 
-## 🎬 Demostración de la Animación
+🎬 Demostración de la Animación
 
 
 
