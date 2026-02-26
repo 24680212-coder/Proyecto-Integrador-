@@ -100,3 +100,13 @@ def generar_escenario_final():
     follow.keyframe_insert(data_path="offset_factor")
 
 generar_escenario_final()
+
+## 🎬 Demostración de la Animación
+
+
+
+Uploading Grabación de pantalla 2026-02-25 192949.mp4…
+
+
+
+
